@@ -14,11 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          lfs: false
 
       - name: Install Gource
-        run: sudo apt-get update && sudo apt-get install -y gource ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y gource
 
       - name: Generate Gource video
         run: |
