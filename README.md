@@ -18,6 +18,10 @@ The wiki includes:
 > Maps are artwork, so builds omit them by default and no illustration is committed here.
 > The PDFs themselves are not redistributed — get them from
 > [the official Stonetop store](https://plusoneexp.com/collections/stonetop).
+>
+> <video src="gource.mp4" controls preload="none" style="max-width:100%; border-radius:4px; margin:1em 0; display:block;"></video>
+>
+> _Repository history visualized with [Gource](https://github.com/aclements/gource)._
 
 ## Requirements
 
